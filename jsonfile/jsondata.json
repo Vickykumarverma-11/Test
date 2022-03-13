@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "category": "Milk",
+      "id": "1",
+      "products": [
+        {
+          "name": "Lassi",
+          "img": "https://mishry.com/wp-content/uploads/2019/05/mother-dairy-lassi.png"
+        },
+        {
+          "name": "Panner",
+          "img": "https://mishry.com/wp-content/uploads/2019/07/mother-dairy-400x392.jpg"
+        }
+         
+      ]
+    },
+    {
+      "category": "Ghee",
+      "id": "1",
+      "products": [
+        {
+          "name": "Nestle",
+          "img": "https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2022/01/1-1024x512.jpg"
+        },
+        {
+          "name": "Mother-Dairy",
+          "img": "https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2022/01/2.jpg"
+        }
+        
+      ]
+    },
+    {
+      "category": "Curd",
+      "id": "1",
+      "products": [
+        {
+          "name": "Amul",
+          "img": "https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2021/12/2-3-1024x512.jpg"
+        },
+        {
+          "name": "Nestle",
+          "img": "https://asset20.ckassets.com/blog/wp-content/uploads/sites/5/2021/12/1-3-1024x512.jpg"
+        }
+        
+      ]
+    }
+  ]
+}
